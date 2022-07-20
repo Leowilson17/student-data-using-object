@@ -1,0 +1,12 @@
+table,td,tr,th{
+    border: 2px solid red;
+    margin: auto;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
