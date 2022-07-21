@@ -2,19 +2,19 @@ var table = document.querySelector('.table-class');
 console.log(table);
 var tableObject = [
     {
-        img: "https://image.shutterstock.com/image-photo/young-handsome-man-beard-wearing-260nw-1768126784.jpg",
-        name: "Vimal",
+        img: "chithirai-img.jpeg",
+        name: "Chithirai",
         mobile: 8389289819,
         batch: 'FSD-10',
         git: [
             link = 'https://github.com/'
         ],
-        referby: "Samy",
-        location: 'Surandai',
+        referby: "Rahul",
+        location: 'Vembar',
         placement: 'Yes'
     },
     {
-        img: 'https://media.gettyimages.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?s=612x612',
+        img: 'mari-pic.jpeg',
         name: "Mariselvam",
         mobile: 83892828319,
         batch: 'FSD-10',
@@ -26,7 +26,7 @@ var tableObject = [
         placement: 'No'
     },
     {
-        img: 'https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg',
+        img: 'my-img.jpeg',
         name: "Leowilson",
         mobile: 7339212569,
         batch: 'FSD-10',
